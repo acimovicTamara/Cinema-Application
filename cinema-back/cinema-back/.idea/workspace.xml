@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80dd65da-bbe5-4e82-992d-4b9fdd7c13e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jgcMRYw8wStpBX4azuEn7u578f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ftninformatika.jwd.modul3.cinema.service.impl" />
+      <recent name="com.ftninformatika.jwd.modul3.cinema.web.dto" />
+      <recent name="com.ftninformatika.jwd.modul3.cinema.security" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\nastava\JWD\materijali-modul3\Termin5\jwd-m3-t5-spring-security\src\main\java\com\ftninformatika\jwd\modul3\cinema\security" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jwd-m3-t5-spring-security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ftninformatika.jwd.modul3.cinema.CinemaApplication" />
+      <option name="ENABLE_JMX_AGENT" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80dd65da-bbe5-4e82-992d-4b9fdd7c13e3" name="Default Changelist" comment="" />
+      <created>1604229126431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604229126431</updated>
+      <workItem from="1604229130659" duration="168000" />
+      <workItem from="1604229341710" duration="410000" />
+      <workItem from="1604229787006" duration="10968000" />
+      <workItem from="1604339487932" duration="186000" />
+      <workItem from="1604759136017" duration="4563000" />
+      <workItem from="1604772189153" duration="2996000" />
+      <workItem from="1604870676046" duration="14076000" />
+      <workItem from="1614291670536" duration="2045000" />
+      <workItem from="1614358185635" duration="15427000" />
+      <workItem from="1614670905299" duration="22000" />
+      <workItem from="1614871411646" duration="1448000" />
+      <workItem from="1619548399984" duration="214000" />
+      <workItem from="1619548630690" duration="266000" />
+      <workItem from="1619548926591" duration="191000" />
+      <workItem from="1623962667477" duration="678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619548495770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1619548495770" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1619548470445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1619548470445" />
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1619548788740">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1619548788740" />
+    <state width="1493" height="124" key="GridCell.Tab.0.bottom" timestamp="1623963368125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1623963368125" />
+    <state width="1493" height="124" key="GridCell.Tab.0.center" timestamp="1623963368124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1623963368124" />
+    <state width="1493" height="124" key="GridCell.Tab.0.left" timestamp="1623963368124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1623963368124" />
+    <state width="1493" height="124" key="GridCell.Tab.0.right" timestamp="1623963368124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1623963368124" />
+    <state x="279" y="0" key="SettingsEditor" timestamp="1619548782122">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1619548782122" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ftninformatika/jwd/modul3/cinema/service/impl/JpaKorisnikService.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
